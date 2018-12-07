@@ -2,7 +2,7 @@
 #### {Application for a job as a consultant}, {6/12/2018}
 #### By **{List of contributors}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{e-library is a platform created to help those who need access to books  differentbooks but fail to get them in libraries.we help them buy them fast and easily.Those who publish books can also use our platform to advertise easily and cheap. }
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
