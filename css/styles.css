@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My first webpage!<title>
+<link href="css/styles.css rel="styles" type="text.css">
+</head>
+<body>
+h1 {
+    color: blue;
+}
+h1 {
+    color: blue;
+    text-align: center;
+}
+h1 {
+    color: green;
+    font-style: italic;
+    text-align: center;
+}   
+p {
+    font-family: sans-serif;
+}   
+ul {
+    line-height: 40px
+}
